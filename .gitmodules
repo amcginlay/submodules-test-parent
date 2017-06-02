@@ -1,3 +1,0 @@
-[submodule "child"]
-	path = child
-	url = git@github.com:amcginlay/submodules-test-child.git
